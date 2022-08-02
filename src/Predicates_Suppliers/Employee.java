@@ -1,4 +1,4 @@
-package FunctionalInterfaces_Predicates_Suppliers;
+package Predicates_Suppliers;
 
 public class Employee {
     private String name;
